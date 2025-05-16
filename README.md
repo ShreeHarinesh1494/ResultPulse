@@ -173,7 +173,7 @@ The primary goal of ResultPulse is to **strengthen backend development skills us
 ![WhatsApp Image 2025-05-16 at 08 18 23_404bbb48](https://github.com/user-attachments/assets/38c040d2-d7f3-47b6-931e-332cf9398c1b)
 
 ### PDF Export 
-- 📄 [Sample Report (PDF via Google Drive)]([https://drive.google.com/your-share-link](https://drive.google.com/file/d/16t4B4e_WzwR0oSdcyAzzLEg23AmJ9YPA/view?usp=sharing))
+- 📄 [View/Download](https://drive.google.com/file/d/16t4B4e_WzwR0oSdcyAzzLEg23AmJ9YPA/view?usp=sharing)
 
 
 
