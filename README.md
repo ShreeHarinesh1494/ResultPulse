@@ -135,6 +135,15 @@ The primary goal of ResultPulse is to **strengthen backend development skills us
 
 ### Admin Register
 ![WhatsApp Image 2025-05-16 at 08 07 11_8d970cf9](https://github.com/user-attachments/assets/a845850f-f50a-4e48-a70f-da33ffd013ae)
+---
+### Admin Login
+![WhatsApp Image 2025-05-16 at 08 07 41_0ee20053](https://github.com/user-attachments/assets/b5fb4c5f-f7eb-477b-b8b3-f32e85959ea3)
+---
+### OTP Verification
+![WhatsApp Image 2025-05-16 at 08 08 57_542446e7](https://github.com/user-attachments/assets/cdf676cf-bc50-421c-b014-a26b10dc7d4e)
+---
+
+
 
 
 ---
