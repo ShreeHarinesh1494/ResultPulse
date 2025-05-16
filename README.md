@@ -116,7 +116,8 @@ The primary goal of ResultPulse is to **strengthen backend development skills us
   - Login & OTP endpoints
   - CRUD operations for students, departments, topics, and courses
   - Student result endpoints
-
+ 
+### My Postman Collections EndPoints
 ---
 
 ## 🚧 Planned Improvements
@@ -142,6 +143,36 @@ The primary goal of ResultPulse is to **strengthen backend development skills us
 ### OTP Verification
 ![WhatsApp Image 2025-05-16 at 08 08 57_542446e7](https://github.com/user-attachments/assets/cdf676cf-bc50-421c-b014-a26b10dc7d4e)
 ---
+### Admin Dashboard
+![WhatsApp Image 2025-05-16 at 08 09 22_37510325](https://github.com/user-attachments/assets/e910fe47-05cd-44dc-8cb9-c83f8d0c2494)
+---
+### Adding Department
+![WhatsApp Image 2025-05-16 at 08 10 03_0a3e0155](https://github.com/user-attachments/assets/619d4c0f-ba05-448a-b4af-5d65f4219d00)
+---
+### Adding Semester
+![WhatsApp Image 2025-05-16 at 08 11 11_7338abc9](https://github.com/user-attachments/assets/4b1eded3-90f6-44ef-8927-09c1566b2049)
+---
+### Adding Student
+![WhatsApp Image 2025-05-16 at 08 12 47_5b3d5150](https://github.com/user-attachments/assets/73eaa191-7e0e-43a4-8862-68c95dea2feb)
+---
+### Adding Course
+![WhatsApp Image 2025-05-16 at 08 13 21_a0ed57cd](https://github.com/user-attachments/assets/f6d94909-a708-4be7-aa59-8924b58ec02a)
+---
+### Topic Creation
+![WhatsApp Image 2025-05-16 at 08 14 37_c6286ebb](https://github.com/user-attachments/assets/59d68fab-5402-416a-9acf-b932b32bc735)
+---
+### Entering Mark Details
+![WhatsApp Image 2025-05-16 at 08 16 38_24d854b4](https://github.com/user-attachments/assets/36b9ed58-c0d4-4991-a180-1523cc87912a)
+---
+### Student Login
+![WhatsApp Image 2025-05-16 at 08 17 19_2092d85e](https://github.com/user-attachments/assets/ef7e5152-bb05-4867-90e6-ce3cfd6b4d10)
+---
+### Result Fetching and Analysis
+![WhatsApp Image 2025-05-16 at 08 17 50_a8ab8858](https://github.com/user-attachments/assets/4df775fb-b9c5-4714-b925-8ebddf2ef0b2)
+![WhatsApp Image 2025-05-16 at 08 18 08_1ece91de](https://github.com/user-attachments/assets/84a30749-bd96-4028-aef6-38f89fbbed1f)
+![WhatsApp Image 2025-05-16 at 08 18 23_404bbb48](https://github.com/user-attachments/assets/38c040d2-d7f3-47b6-931e-332cf9398c1b)
+
+### PDF Export 
 
 
 
