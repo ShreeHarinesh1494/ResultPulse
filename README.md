@@ -118,7 +118,7 @@ The primary goal of ResultPulse is to **strengthen backend development skills us
   - Student result endpoints
  
 ### My Postman Collections EndPoints
----
+--- - 🔄 [Postman API Collection (JSON)](./Result%20Pulse.postman_collection.json)
 
 ## 🚧 Planned Improvements
 
