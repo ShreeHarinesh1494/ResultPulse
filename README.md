@@ -133,7 +133,9 @@ The primary goal of ResultPulse is to **strengthen backend development skills us
 
 ## Screenshots
 
-### Admin Login
+### Admin Register
+![WhatsApp Image 2025-05-16 at 08 07 11_8d970cf9](https://github.com/user-attachments/assets/a845850f-f50a-4e48-a70f-da33ffd013ae)
+
 
 ---
 
